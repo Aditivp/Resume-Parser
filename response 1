@@ -1,0 +1,113 @@
+{
+  "name": "Aditi Patil",
+  "contact_information": {
+    "phone": "+91 7058063999",
+    "email": "aditivpatil999@gmail.com",
+    "portfolio": "Portfolio",
+    "linkedin": "LinkedIN",
+    "github": "Github",
+    "location": "Pune, Maharashtra"
+  },
+  "education": [
+    {
+      "institution": "Vishwakarma Institute of Technology, Pune",
+      "degree": "BTech in Electronics and Telecommunication",
+      "year": "2020 - 2024",
+      "cgpa": "8.04"
+    },
+    {
+      "institution": "Sanjay Ghodawat Jr. College",
+      "degree": "HSC (Class XII)",
+      "year": "2018 - 2020",
+      "percentage": "76.9%"
+    },
+    {
+      "institution": "Alphonsa School",
+      "degree": "SSC (Class X)",
+      "year": "Passed 2018",
+      "percentage": "96%"
+    }
+  ],
+  "coursework": [
+    "Data structures & algorithm",
+    "Object-Oriented Programming",
+    "DBMS",
+    "Web development",
+    "Machine learning"
+  ],
+  "experience": [
+    {
+      "company": "Primus Techsystems Pvt Ltd",
+      "role": "SAP - BTP",
+      "duration": "Jan 2024 – May 2024",
+      "responsibilities": "Actively involved in SAP Fiori development, utilizing SAPUI5 for responsive user interfaces, OData services for backend communication, to optimize the process of managing employee master data"
+    },
+    {
+      "company": "Erfinden Technology Pvt Ltd",
+      "role": "Android Development Freelance",
+      "duration": "Sep 2022 – Jan 2023",
+      "responsibilities": "Transformed Non-Veg Mart website into a fully functional Android App using Android SDK and Firebase Cloud Messaging (FCM) API, increasing app usage by 40% to provide end-to-end encryption"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Facial Recognition-Based Attendance Management System",
+      "description": "Developed an attendance system",
+      "techstack": "Python, OpenCV, Dlib",
+      "key_features": "Implemented multiple face detection and recognition with various algorithms to mark attendance from a live web-camera, achieving 82.72% accuracy."
+    },
+    {
+      "name": "Hate Speech Detection System",
+      "description": "Designed an offensive word detection system for tweets",
+      "techstack": "Python, NLTK",
+      "key_features": "Performed text cleaning and preprocessing on a dataset of tweets. Trained and evaluated a decision tree model, achieving 85% accuracy in detecting hate speech."
+    },
+    {
+      "name": "Read-Out-Loud System for Visually Impaired",
+      "description": "Implemented a system that converts images to text and then to spoken audio",
+      "techstack": "Python, OpenCV, Text-to-Speech Engine",
+      "key_features": "Integrated image processing algorithms to extract text from image and text-to-speech functionality to convert extracted text into spoken words."
+    }
+  ],
+  "skills": {
+    "programming_languages": [
+      "Java",
+      "Python",
+      "SQL",
+      "HTML/CSS",
+      "PHP",
+      "React.js"
+    ],
+    "technologies": [
+      "MySQL",
+      "Android Studio",
+      "Git/GitHub"
+    ],
+    "soft_skills": [
+      "Team & Time Management",
+      "Analytical thinking",
+      "Communication skills",
+      "Problem Solving"
+    ]
+  },
+  "certifications": [
+    {
+      "name": "Career Essentials in Data Analysis",
+      "issuer": "Microsoft and LinkedIn"
+    },
+    {
+      "name": "AWS Educate Introduction to Cloud 101",
+      "issuer": "Amazon Web Services Training and Certification"
+    },
+    {
+      "name": "Hacker Rank certification in SQL",
+      "level": "Basic, Intermediate"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Smart Cradle System",
+      "journal": "YMER"
+    }
+  ]
+}
