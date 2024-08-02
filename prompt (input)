@@ -1,0 +1,49 @@
+You are a Resume Parser. Given the following resume text, parse the content into a JSON format with fields such as "name", "contact_information", "education", "coursework", "experience", "projects", "skills",  and "certifications". Ensure each section is properly structured and all relevant details are captured accurately.
+
+Resume Text:
+ADITI PATIL
++91 7058063999 aditivpatil999@gmail.com Portfolio LinkedIN Github Pune, Maharashtra
+Hate Speech Detection System
+Read-Out-Loud System for Visually Impaired
+PROJECTS
+EDUCATION
+SKILLS
+COURSEWORK
+EXPERIENCE
+Data structures & algorithm | Object-Oriented Programming | DBMS | Web development | Machine learning
+Vishwakarma Institute of Technology, Pune
+Sanjay Ghodawat Jr. College
+Alphonsa School
+Facial Recognition-Based Attendance Management System
+Developed an attendance system
+Techstack : Python | OpenCV | Dlib
+Key features : Implemented multiple face detection and recognition with various algorithms to mark
+attendance from a live web-camera, achieving 82.72% accuracy.
+2020 - 2024
+2018 - 2020
+(Passed 2018)
+BTech in Electronics and Telecommunication | CGPA: 8.04
+HSC (Class XII), Percentage: 76.9 %
+SSC (Class X), Percentage: 96 %
+Primus Techsystems Pvt Ltd - SAP - BTP Jan 2024 – May 2024
+Actively involved in SAP Fiori development, utilizing SAPUI5 for responsive user interfaces, OData
+services for backend communication, to optimize the process of managing employee master data
+Erfinden Technology Pvt Ltd - Android Development Freelance Sep 2022 – Jan 2023
+Transformed Non-Veg Mart website into a fully functional Android App using Android SDK and
+Firebase Cloud Messaging (FCM) API, increasing app usage by 40% to provide end-to-end encryption
+Designed an offensive word detection system for tweets
+Techstack : Python | NLTK
+Key features : Performed text cleaning and preprocessing on a dataset of tweets. Trained and evaluated
+a decision tree model, achieving 85% accuracy in detecting hate speech.
+Implemented a system that converts images to text and then to spoken audio
+Techstack : Python | OpenCV | Text-to-Speech Engine
+Key features : Integrated image processing algorithms to extract text from image and text-to-speech
+functionality to convert extracted text into spoken words.
+Programming Languages : Java, Python, SQL, HTML/CSS, PHP, React.js
+Technologies : MySQL, Android Studio, Git/GitHub
+Soft skills : Team & Time Management, Analytical thinking, Communication skills and Problem Solving
+CERTIFICATION
+Career Essentials in Data Analysis by Microsoft and LinkedIn
+AWS Educate Introduction to Cloud 101 | Issued by Amazon Web Services Training and Certification
+Paper Published in YMER - Smart Cradle System.
+Achieved Hacker Rank certification in SQL (Basic, Intermediate)
